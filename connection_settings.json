@@ -1,0 +1,7 @@
+{
+	"server": "localhost",
+	"port": "3306",
+	"database": "ec38",
+	"user": "ec38",
+	"password": "ec38"
+}
